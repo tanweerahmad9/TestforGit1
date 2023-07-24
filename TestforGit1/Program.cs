@@ -1,19 +1,12 @@
-﻿// See https://aka.ms/new-console-template for more information
-using System;
-
-Console.WriteLine("Hello, Tanweer !");
-Console.WriteLine("whats up are you ready to learn github!");
-console.writeLine("yes!");
-// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, Tanweer !");
-Console.WriteLine("whats up are you ready to learn github!");
-console.writeLine("yes!");
-// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, Tanweer !");
-Console.WriteLine("whats up are you ready to learn github!");
-console.writeLine("yes!");
-// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, Tanweer !");
-Console.WriteLine("whats up are you ready to learn github!");
-console.writeLine("yes!");
-
+﻿void MyFirstMethod()
+{
+    Console.WriteLine("hey");
+}
+void MySecondMethod()
+{
+    Console.WriteLine("how are you ?");
+}
+void MythirdMehod()
+{
+    Console.WriteLine("Tanweer Ahmad");
+}
